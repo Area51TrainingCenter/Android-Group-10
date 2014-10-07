@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Semana1_1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="texto">Ingrese Texto</string>
+    <string name="ejecutar">Ejecutar</string>
+    <string name="texto_requerido">Ingrese texto</string>
+    <string name="texto_solicitado">Aqui va el texto</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="limpiar2">Sub Limpiar</string>
+    <string name="segunda">Segunda</string>
+    <string name="producto">Producto</string>
+    
+    
+    
+    <string-array name="productos">
+        <item>Monitor</item>
+        <item>CPU</item>
+        <item>Teclado</item>
+    </string-array>
+        <string name="precio">Precio:</string>
+    
+</resources>

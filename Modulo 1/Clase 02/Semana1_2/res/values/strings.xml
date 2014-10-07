@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Semana1_2</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Segunda</string>
+    <string name="tercera">Pantalla Tercera</string>
+
+    <string-array name="lista">
+        <item >CPU</item>
+        <item >Monitor</item>
+    </string-array>
+    
+</resources>
