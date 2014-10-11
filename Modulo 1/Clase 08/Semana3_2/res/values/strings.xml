@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Semana3_2</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="portada">PORTADA</string>
+    <string name="asturias">ASTURIAS</string>
+    <string name="texto_uno">&lt;&lt;El HUCA es como un coche nuevo: primero te cuesta, pero luego le coges el tranquillo>></string>
+    <string name="laura">LAURA FONSECA</string>
+    <string name="oviedo">OVIEDO.</string>
+    <string name="texto_Dos">&lt;&lt;En dos o tres semanas, los trabajadores se harán con el \'Millenium\'. Es normal que ahor....</string>
+    <string name="texto_tres">Longo: &lt;&lt;El registro de enfermedades raras abre la puerta a horrores...</string>
+    <string name="texto_cuatro">El consejero de Sanidad no aclaró ayer en la junta por qué este tipo d...</string>
+
+</resources>

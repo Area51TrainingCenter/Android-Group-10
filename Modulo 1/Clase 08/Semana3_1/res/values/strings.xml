@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Semana3_1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome">Welcome</string>
+    <string name="log_redbooth">Log into Redbooth</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="email_username">Email or Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="sign_in_google">Sign in with Google</string>
+    <string name="on_premise_login">On-Premise Login</string>
+
+</resources>
