@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Semana4_2</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="email">Email</string>
+    <string name="contrasenia">Contraseña</string>
+    <string name="login">Login</string>
+    <string name="registro">Regsitro</string>
+    <string name="title_activity_registro">RegistroActivity</string>
+    <string name="repetir_contrasenia">Repetir Contraseña</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+</resources>
