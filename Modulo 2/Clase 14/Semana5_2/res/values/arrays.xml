@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="titulos">
+        <item>Chrome</item>
+        <item>Explorer</item>
+        <item>Firefox</item>
+        <item>Opera</item>
+    </string-array>
+    
+    <array name="iconos">
+        <item>@drawable/chrome</item>
+        <item>@drawable/explorer</item>
+        <item>@drawable/firefox</item>
+        <item>@drawable/opera</item>
+    </array>
+</resources>
