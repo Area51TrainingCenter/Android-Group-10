@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="name">#292F33</color>
+    <color name="username">#CCD3D9</color>
+    <color name="createAt">#90A0AC</color>
+    <color name="text">#292F33</color>
+
+</resources>
