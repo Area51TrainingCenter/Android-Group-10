@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Semana8_1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="api_maps">AIzaSyB-BjOCh9hSbDMjvK9iRPmB4VGxRk8ydxA</string>
+    <string name="mapNormal">Normal</string>
+    <string name="mapHibrido">Hibrido</string>
+    <string name="mapTerreno">Terreno</string>
+    <string name="mapSatelital">Satelite</string>
+
+</resources>
