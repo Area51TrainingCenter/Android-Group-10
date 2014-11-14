@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item android:drawable="@drawable/progress_cyan"/>
+    <!-- android:id="@+android:id/SecondaryProgress" -->
+    <item
+        android:id="@+android:id/progress"
+        android:drawable="@drawable/progress_red"/>
+
+</layer-list>
